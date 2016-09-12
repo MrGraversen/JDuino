@@ -1,0 +1,13 @@
+### INSTALLATION ###
+
+# WIN32 #
+win32\rxtxSerial.dll goes in \jre\bin (e.g.: C:\Program Files\Java\jre1.8.0_51\bin)
+RXTXcomm.jar goes in \jre\lib\ext (e.g.: C:\Program Files\Java\jre1.8.0_51\lib\ext)
+
+# WIN64 #
+win64\rxtxSerial.dll goes in \jre\bin (e.g.: C:\Program Files\Java\jre1.8.0_51\bin)
+RXTXcomm.jar goes in \jre\lib\ext (e.g.: C:\Program Files\Java\jre1.8.0_51\lib\ext)
+
+# LINUX #
+x86_64linux\librxtxSerial.so goes in /jre/lib/[machine type] (i386 for instance)
+RXTXcomm.jar goes in /jre/lib/ext (under java)
